@@ -1,2 +1,2 @@
-# Bola com Simulação da Gravidade
-Uma bola é criada a cada clique do mouse. É utilizada uma dinâmica para simular a gravidade em que a bola ganha velocidade enquanto vai caindo. Também é feita uma simulação da perda de energia cinética dela com uma diminuição gradual de sua velocidade a cada quique.
+# Ball with Gravity Simulation
+A ball is created with each mouse click. Dynamics are used to simulate gravity in which the ball gains speed as it falls. A simulation is also made of its loss of kinetic energy with a gradual decrease in its speed with each bounce.

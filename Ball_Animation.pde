@@ -4,7 +4,7 @@ LinkedList<Ball> balls = new LinkedList<Ball>();
 
 void setup(){
 size(1280,920);
-img = loadImage("Bola.png");
+img = loadImage("Ball.png");
 }
 
 
